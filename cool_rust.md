@@ -14,3 +14,4 @@
 - [meilisearch](https://github.com/meilisearch/meilisearch) -  A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [redox-os](https://gitlab.redox-os.org/redox-os/redox) - A Rust Operating System
+- [gitui](https://github.com/extrawurst/gitui) - GitUI provides you with the comfort of a git GUI but right in your terminal
