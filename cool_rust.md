@@ -15,3 +15,4 @@
 - [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [redox-os](https://gitlab.redox-os.org/redox-os/redox) - A Rust Operating System
 - [gitui](https://github.com/extrawurst/gitui) - GitUI provides you with the comfort of a git GUI but right in your terminal
+- [tokei](https://github.com/XAMPPRocky/tokei) - Counts the number of files, total lines within those files and code, comments, and blanks grouped by language.
