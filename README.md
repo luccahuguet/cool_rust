@@ -2,7 +2,7 @@
 - [nushell](https://github.com/nushell/nushell) - a new type of shell
 
 ### Editors
-- [helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
+- [helix](https://github.com/helix-editor/helix) - A post-modern modal text editor, inspired by neovim and kakoune, but with much less configuration needed. Blazingly fast!
 - [lapce](https://github.com/lapce/lapce) - Lapce is written in pure Rust with a UI in Druid (also written in Rust).
  It is designed with Rope Science from the Xi-Editor which makes for lightning-fast computation, and leverages OpenGL for rendering.
 
@@ -32,6 +32,6 @@
 - [gitui](https://github.com/extrawurst/gitui) - GitUI provides you with the comfort of a git GUI but right in your terminal
 
 ### Others
-- [just](https://github.com/casey/just) - Just a command runner. Similar to make, but better.
+- [just](https://github.com/casey/just) - Just a command runner. Similar to make, but simples.
 - [meilisearch](https://github.com/meilisearch/meilisearch) -  A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [redox-os](https://gitlab.redox-os.org/redox-os/redox) - A Rust Operating System
