@@ -1,5 +1,5 @@
 ## What is Cool Rust ?
-The following are programs that I have used, that are also popular, mantained and blazingly fast!
+The following are programs written in rust that I have used, that are also popular, mantained and blazingly fast!
 
 ### Shells
 - [nushell](https://github.com/nushell/nushell) - a new type of shell. Cross-platform. Shows every output as a table. Understands json, yaml and others. Autocompletion out of the box
@@ -15,6 +15,7 @@ The following are programs that I have used, that are also popular, mantained an
 - [procs](https://github.com/dalance/procs) - procs is a replacement for ps written in Rust
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [macchina](https://github.com/Macchina-CLI/macchina) - A system information frontend, with an (unhealthy) emphasis on performance. Cross-platform. Similar to neofetch
+- [dust](https://github.com/bootandy/dust) - du + rust = dust. Like du but more intuitive. Because you want an easy way to see where your disk is being used.
 
 ### CLI Tools
 - [bat](https://github.com/sharkdp/bat) - a cat clone with wings
