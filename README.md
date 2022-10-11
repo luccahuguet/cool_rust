@@ -18,13 +18,13 @@ The following are programs written in rust that I have used, that are also popul
 - [dust](https://github.com/bootandy/dust) - du + rust = dust. Like du but more intuitive. Because you want an easy way to see where your disk is being used.
 
 ### CLI Tools
-- [bat](https://github.com/sharkdp/bat) - a cat clone with wings
+- [bat](https://github.com/sharkdp/bat) - a cat clone with wings. Syntax highlighting for the win
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - recursively searches directories for a regex pattern while respecting your gitignore
 - [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 
 ### Terminal
 - [zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included, great for multiplexing
-- [starship](https://github.com/starship/starship) - The minimal, blazing-fast, and infinitely customizable prompt for any shell!  
+- [starship](https://github.com/starship/starship) - The minimal, blazing-fast, and infinitely customizable prompt for any shell! Cross-platform
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator
 
 ### File Traversers / Fuzzy searching
