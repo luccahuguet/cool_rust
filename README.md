@@ -32,6 +32,6 @@
 - [gitui](https://github.com/extrawurst/gitui) - GitUI provides you with the comfort of a git GUI but right in your terminal
 
 ### Others
-- [just](https://github.com/casey/just) - Just a command runner. Similar to make, but simples.
+- [just](https://github.com/casey/just) - Just a command runner. Similar to make, but simpler.
 - [meilisearch](https://github.com/meilisearch/meilisearch) -  A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [redox-os](https://gitlab.redox-os.org/redox-os/redox) - A Rust Operating System
