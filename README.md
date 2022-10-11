@@ -9,7 +9,7 @@ The following are programs written in rust that I have used, that are also popul
 - [lapce](https://github.com/lapce/lapce) - Lapce is written in pure Rust with a UI in Druid (also written in Rust)
  It is designed with Rope Science from the Xi-Editor which makes for lightning-fast computation, and leverages OpenGL for rendering
 
-### CLI Tools - Metadata summarizers & monitors
+### CLI Tools - Data summarizers & monitors
 - [bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor
 - [tokei](https://github.com/XAMPPRocky/tokei) - Counts the number of files, total lines within those files and code, comments, and blanks grouped by language
 - [procs](https://github.com/dalance/procs) - procs is a replacement for ps written in Rust
