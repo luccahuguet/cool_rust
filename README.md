@@ -2,7 +2,7 @@
 The following are great programs written in rust that I have used, that are also popular, mantained and blazingly fast!
 
 ### Shells
-- [nushell](https://github.com/nushell/nushell) - a new type of shell. Cross-platform. Shows every output as a table. Understands json, yaml and others. Autocompletion out of the box :star:
+- [nushell](https://github.com/nushell/nushell) :star: - a new type of shell. Cross-platform. Shows every output as a table. Understands json, yaml and others. Autocompletion out of the box 
 
 ### Editors
 - [helix](https://github.com/helix-editor/helix) :star: - A post-modern modal text editor, inspired by neovim and kakoune, but with much less configuration needed. Blazingly fast!
