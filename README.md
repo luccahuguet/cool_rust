@@ -12,13 +12,13 @@ The following are great programs written in rust that I have used, that are also
 ### CLI Tools - Data summarizers & monitors
 - [dust](https://github.com/bootandy/dust) :star: - du + rust = dust. Like du but more intuitive. Because you want an easy way to see where your disk is being used. 
 - [bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor
-- [tokei](https://github.com/XAMPPRocky/tokei)  :star: - Counts the number of files, total lines within those files and code, comments, and blanks grouped by language
+- [tokei](https://github.com/XAMPPRocky/tokei) - Counts the number of files, total lines within those files and code, comments, and blanks grouped by language
 - [procs](https://github.com/dalance/procs) - procs is a replacement for ps written in Rust
-- [onefetch](https://github.com/o2sh/onefetch)  :star: - Git repository summary on your terminal
+- [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 
 ### CLI Tools
 - [bat](https://github.com/sharkdp/bat) :star: - a cat clone with wings. Syntax highlighting for the win
-- [coreutils](https://github.com/uutils/coreutils) :star: - Cross-platform Rust rewrite of the GNU coreutils
+- [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - recursively searches directories for a regex pattern while respecting your gitignore
 
 ### Terminal
