@@ -11,9 +11,13 @@ The following are great programs written in rust that I have used, that are also
 
 ### CLI Tools - Data summarizers & monitors
 - [dust](https://github.com/bootandy/dust) :star: - du + rust = dust. Like du but more intuitive. Because you want an easy way to see where your disk is being used. 
+- [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal, a neofecth for git projects. Will count lines of code and separe per language!
 - [bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor
 - [procs](https://github.com/dalance/procs) - procs is a replacement for ps written in Rust
-- [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal, a neofecth for git projects. Will count lines of code and separe per language!
+
+### Git - Version control
+- [gitoxide](https://github.com/Byron/gitoxide) :star: -  An idiomatic, lean, fast & safe pure Rust implementation of Git 
+- [gitui](https://github.com/extrawurst/gitui) :star: - GitUI provides you with the comfort of a git GUI but right in your terminal
 
 ### CLI Tools
 - [bat](https://github.com/sharkdp/bat) :star: - a cat clone with wings. Syntax highlighting for the win
@@ -28,10 +32,6 @@ The following are great programs written in rust that I have used, that are also
 ### File Traversers / Fuzzy searching
 - [xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal fast TUI file explorer
 - [broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees
-
-### Git - Version control
-- [gitoxide](https://github.com/Byron/gitoxide) :star: -  An idiomatic, lean, fast & safe pure Rust implementation of Git 
-- [gitui](https://github.com/extrawurst/gitui) :star: - GitUI provides you with the comfort of a git GUI but right in your terminal
 
 ### Plan to use in the future
 - [just](https://github.com/casey/just) - Just a command runner. Similar to make, but simpler
