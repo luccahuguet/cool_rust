@@ -16,7 +16,11 @@ Stars are given to projects that I have used more and hold a special place in my
 - [alacritty](https://github.com/alacritty/alacritty) :star: - A cross-platform, OpenGL terminal emulator
 
 ### CLI Tools - Data summarizers & monitors
-- [dust](https://github.com/bootandy/dust) :star: - du + rust = dust. Like du but more intuitive. Because you want an easy way to see where your disk is being used. 
+- [erdtree](https://github.com/solidiquis/erdtree) :star: - A modern, vibrant (but not overly), and multi-threaded file-tree visualizer and disk usage
+analyzer that respects hidden files and .gitignore rules - basically if tree and du had a baby. (fun fact: the binary that was called erdtree is now called et because
+I suggested so to the author on reddit)
+- [ouch](https://github.com/ouch-org/ouch) - It's a CLI tool for compressing and decompressing for various formats. Easy to use. Fast. Great error message feedback.
+No runtime dependencies required (for Linux x86_64). Accessibility mode. Shell completions and man pages. Written in rust🦀! 
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal, a neofecth for git projects. Will count lines of code and separe per language!
 - [bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor
 - [procs](https://github.com/dalance/procs) - procs is a replacement for ps written in Rust
@@ -36,5 +40,4 @@ Stars are given to projects that I have used more and hold a special place in my
 
 ### Plan to use in the future
 - [just](https://github.com/casey/just) - Just a command runner. Similar to make, but simpler
-- [meilisearch](https://github.com/meilisearch/meilisearch) -  A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow
 - [redox-os](https://gitlab.redox-os.org/redox-os/redox) - A Rust Operating System
