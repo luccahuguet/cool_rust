@@ -1,9 +1,9 @@
-## What is Cool Rust ?
+## What is Cool-Rust?
 The following are great programs written in rust that I have used, that are also popular, mantained and blazingly fast.  
 Stars are given to projects that feel special and of great use, those are the ones you should try out!  
 
-What this list in detriment of other lists? 
-- Because it is short and because it will continuously be updated, for I am a true rustacean.
+What does this list bring to the table, in comparison to other options? 
+It is short and it will continuously be updated, for I am a true rustacean.
 
 
 ### Text Editors / IDEs
