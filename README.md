@@ -5,7 +5,7 @@ Stars are given to projects that I have used more and hold a special place in my
 ### Shells
 - [nushell](https://github.com/nushell/nushell) :star: - a new type of shell. Cross-platform. Shows every output as a table. Understands json, yaml and others. Autocompletion out of the box 
 
-### Editors
+### Text Editors / IDEs
 - [helix](https://github.com/helix-editor/helix) :star: - A post-modern modal text editor, inspired by neovim and kakoune, but with much less configuration needed. Blazingly fast!
 - [lapce](https://github.com/lapce/lapce) - Lapce is written in pure Rust with a UI in Druid (also written in Rust)
  It is designed with Rope Science from the Xi-Editor which makes for lightning-fast computation, and leverages OpenGL for rendering
@@ -33,11 +33,7 @@ No runtime dependencies required (for Linux x86_64). Accessibility mode. Shell c
 - [bat](https://github.com/sharkdp/bat) :star: - a cat clone with wings. Syntax highlighting for the win
 - [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - recursively searches directories for a regex pattern while respecting your gitignore
-
-### File Traversers / Fuzzy searching
-- [xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal fast TUI file explorer
-- [broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees
-
-### Plan to use in the future
 - [just](https://github.com/casey/just) - Just a command runner. Similar to make, but simpler
-- [redox-os](https://gitlab.redox-os.org/redox-os/redox) - A Rust Operating System
+
+### Operating Systems
+- [redox-os](https://gitlab.redox-os.org/redox-os/redox)  :star: - A Rust Operating System
