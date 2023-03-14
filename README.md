@@ -2,8 +2,8 @@
 The following are great programs written in rust that I have used, that are also popular, mantained and blazingly fast.  
 Stars are given to projects that feel special and of great use, those are the ones you should try out!  
 
-What does this list bring to the table, in comparison to other options? 
-It is short and it will continuously be updated, for I am a true rustacean.
+What does this list bring to the table, in comparison to other options?  
+It is short and it will continuously be updated, for I am a true rustacean. :crab:
 
 
 ### Text Editors / IDEs
@@ -23,7 +23,7 @@ It is short and it will continuously be updated, for I am a true rustacean.
 analyzer that respects hidden files and .gitignore rules - basically if tree and du had a baby. (fun fact: the binary that was called erdtree is now called et because
 I suggested so to the author on reddit)
 - [ouch](https://github.com/ouch-org/ouch) - It's a CLI tool for compressing and decompressing for various formats. Easy to use. Fast. Great error message feedback.
-No runtime dependencies required (for Linux x86_64). Accessibility mode. Shell completions and man pages. Written in rust🦀! 
+No runtime dependencies required (for Linux x86_64). Accessibility mode. Shell completions and man pages.  
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal, a neofecth for git projects. Will count lines of code and separe per language!
 - [bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor
 - [procs](https://github.com/dalance/procs) - procs is a replacement for ps written in Rust
