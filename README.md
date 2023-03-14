@@ -3,7 +3,7 @@ The following are great programs written in rust that I have used, that are also
 Stars are given to projects that feel special and of great use, those are the ones you should try out!
 
 ### Shells
-- [nushell](https://github.com/nushell/nushell) :star: - a new type of shell. Cross-platform. Shows every output as a table. Understands json, yaml and others. Autocompletion out of the box 
+
 
 ### Text Editors / IDEs
 - [helix](https://github.com/helix-editor/helix) :star: - A post-modern modal text editor, inspired by neovim and kakoune, but with much less configuration needed. Blazingly fast!
@@ -11,9 +11,11 @@ Stars are given to projects that feel special and of great use, those are the on
  It is designed with Rope Science from the Xi-Editor which makes for lightning-fast computation, and leverages OpenGL for rendering
 
 ### Terminal
-- [zellij](https://github.com/zellij-org/zellij) :star: - A terminal workspace with batteries included, great for multiplexing
 - [starship](https://github.com/starship/starship) :star: - The minimal, blazing-fast, and infinitely customizable prompt for any shell! Cross-platform
+- [nushell](https://github.com/nushell/nushell) :star: - a new type of shell. Cross-platform. Shows every output as a table. Understands json, yaml and others. Autocompletion out of the box 
 - [alacritty](https://github.com/alacritty/alacritty) :star: - A cross-platform, OpenGL terminal emulator
+- [zellij](https://github.com/zellij-org/zellij) :star: - A terminal workspace with batteries included, great for multiplexing
+- Trivia: The 4 above projecs form what I call the SNAZ terminal stack
 
 ### CLI Tools - Data summarizers & monitors
 - [erdtree](https://github.com/solidiquis/erdtree) :star: - A modern, vibrant (but not overly), and multi-threaded file-tree visualizer and disk usage
