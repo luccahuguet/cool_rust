@@ -36,4 +36,4 @@ No runtime dependencies required (for Linux x86_64). Accessibility mode. Shell c
 - [just](https://github.com/casey/just) - Just a command runner. Similar to make, but simpler
 
 ### Operating Systems
-- [redox-os](https://gitlab.redox-os.org/redox-os/redox)  :star: - A Rust Operating System
+- [redox-os](https://gitlab.redox-os.org/redox-os/redox)  :star: - Redox is a Unix-like Operating System written in Rust, aiming to bring the innovations of Rust to a modern microkernel and full set of applications.
