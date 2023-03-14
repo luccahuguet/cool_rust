@@ -2,15 +2,13 @@
 The following are great programs written in rust that I have used, that are also popular, mantained and blazingly fast.
 Stars are given to projects that feel special and of great use, those are the ones you should try out!
 
-### Shells
-
 
 ### Text Editors / IDEs
 - [helix](https://github.com/helix-editor/helix) :star: - A post-modern modal text editor, inspired by neovim and kakoune, but with much less configuration needed. Blazingly fast!
 - [lapce](https://github.com/lapce/lapce) - Lapce is written in pure Rust with a UI in Druid (also written in Rust)
  It is designed with Rope Science from the Xi-Editor which makes for lightning-fast computation, and leverages OpenGL for rendering
 
-### Terminal
+### Terminal-related
 - [starship](https://github.com/starship/starship) :star: - The minimal, blazing-fast, and infinitely customizable prompt for any shell! Cross-platform
 - [nushell](https://github.com/nushell/nushell) :star: - a new type of shell. Cross-platform. Shows every output as a table. Understands json, yaml and others. Autocompletion out of the box 
 - [alacritty](https://github.com/alacritty/alacritty) :star: - A cross-platform, OpenGL terminal emulator
