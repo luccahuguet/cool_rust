@@ -1,5 +1,5 @@
 ## What is Cool Rust ?
-The following are great programs written in rust that I have used, that are also popular, mantained and blazingly fast.
+The following are great programs written in rust that I have used, that are also popular, mantained and blazingly fast. 
 Stars are given to projects that feel special and of great use, those are the ones you should try out!
 
 
