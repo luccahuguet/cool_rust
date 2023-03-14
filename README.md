@@ -1,6 +1,6 @@
 ## What is Cool Rust ?
 The following are great programs written in rust that I have used, that are also popular, mantained and blazingly fast!  
-Stars are given to projects that I have used more and hold a special place in my heart. 
+Stars are given to projects that hold a special place in my heart. 
 
 ### Shells
 - [nushell](https://github.com/nushell/nushell) :star: - a new type of shell. Cross-platform. Shows every output as a table. Understands json, yaml and others. Autocompletion out of the box 
