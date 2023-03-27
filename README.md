@@ -3,7 +3,7 @@ The following are great programs written in rust that I have used, that are also
 Stars are given to projects that feel special and of great use, those are the ones you should try out!  
 
 What does this list bring to the table, in comparison to other options?  
-It is short and it will continuously be updated, for I am a true rustacean. :crab:
+It is short and it will be continuously be updated, for I am a true rustacean. :crab:
 
 
 ### Text Editors / IDEs
