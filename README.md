@@ -20,8 +20,7 @@ It is short and it will be continuously be updated, for I am a true rustacean. :
 
 ### CLI Tools - Data summarizers & monitors
 - [erdtree](https://github.com/solidiquis/erdtree) :star: - A modern, vibrant (but not overly), and multi-threaded file-tree visualizer and disk usage
-analyzer that respects hidden files and .gitignore rules - basically if tree and du had a baby. (fun fact: the binary that was called erdtree is now called et because
-I suggested so to the author on reddit)
+analyzer that respects hidden files and .gitignore rules - basically if tree and du had a baby. 
 - [ouch](https://github.com/ouch-org/ouch) - It's a CLI tool for compressing and decompressing for various formats. Easy to use. Fast. Great error message feedback.
 No runtime dependencies required (for Linux x86_64). Accessibility mode. Shell completions and man pages.  
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal, a neofecth for git projects. Will count lines of code and separe per language!
