@@ -26,7 +26,6 @@ I suggested so to the author on reddit)
 No runtime dependencies required (for Linux x86_64). Accessibility mode. Shell completions and man pages.  
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal, a neofecth for git projects. Will count lines of code and separe per language!
 - [bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor
-- [procs](https://github.com/dalance/procs) - procs is a replacement for ps written in Rust
 - [cargo-update](https://github.com/nabijaczleweli/cargo-update) - A cargo subcommand for checking and applying updates to installed executables
 
 ### Git - Version control
@@ -35,7 +34,6 @@ No runtime dependencies required (for Linux x86_64). Accessibility mode. Shell c
 
 ### CLI Tools
 - [bat](https://github.com/sharkdp/bat) :star: - a cat clone with wings. Syntax highlighting for the win
-- [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - recursively searches directories for a regex pattern while respecting your gitignore
 - [just](https://github.com/casey/just) - Just a command runner. Similar to make, but simpler
 
